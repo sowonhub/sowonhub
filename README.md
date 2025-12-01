@@ -1,37 +1,80 @@
 ## Hi there 👋
 
-# 김소원 | Junior Frontend Developer
+<div align="center">
 
-텍스타일디자인 전공 출신 프론트엔드 개발자입니다.  
-‘보기에 예쁘고 쓰기엔 더 편한 인터페이스’를 목표로  
-React와 Tailwind로 정보의 우선순위와 시선 흐름을 설계하고 있습니다.
+  <h1>안녕하세요, 김소원입니다 👋</h1>
+  <p><b>텍스타일 디자이너 출신 프론트엔드 개발자 준비생</b><br/>
+  디자인 감각을 살린 웹 UI 만들기를 좋아합니다.</p>
+
+  <!-- 뱃지 영역 -->
+  <a href="https://github.com/YOUR_GITHUB_ID">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.inflearn.com/users/@cloudmailboxx">
+    <img src="https://img.shields.io/badge/Inflearn-00C471?style=flat-square&logo=readme&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎨 **텍스타일디자인 전공** 기반으로 색감·레이아웃에 신경 쓰는 편이에요.
+- 🌱 현재 **프론트엔드(React, TypeScript)**를 집중적으로 공부하고 있습니다.
+- 📚 정리된 문서/가이드, 템플릿 만드는 걸 좋아해요.
+- 🧠 관심사: UX·UI, 웹 접근성, 데이터 시각화, 심리학.
 
 ---
 
 ## 🛠 Tech Stack
 
-- JavaScript, TypeScript, React  
-- HTML/CSS, Tailwind CSS  
-- REST API, Git, GitHub  
-- Photoshop, Illustrator
+**Frontend**
+- HTML, CSS, JavaScript (ES6+)
+- React, Vite
+- Styled-components, Tailwind CSS
+
+**Tools & Collaboration**
+- Git, GitHub
+- VS Code, Cursor
+- Figma (간단한 와이어프레임 / UI 디자인)
 
 ---
 
-## 🎬 Projects
+## 📌 What I’m Working On
 
-### Popcorn Play – 영화 검색 웹사이트
-TMDB 오픈 API를 연동해 영화 검색과 상세 정보를 제공하는 React 기반 웹서비스입니다.  
-- 키워드 검색, 영화 목록/상세 조회, 반응형 레이아웃, 다크 모드 구현  
-- 정보의 우선순위와 시선 흐름을 고려한 카드형 UI 설계  
+- 🎬 **영화 사이트 미니 프로젝트 (React + TMDB API)**  
+  검색 기능, Top 10 섹션, 상세 페이지 등 UI/UX를 개선하고 있습니다.
 
-👉 데모 / 코드: [Popcorn Play 저장소로 이동](https://github.com/sowonhub/pop-corn-play.git)  <!-- 나중에 실제 레포 링크로 교체 -->
+- 🧪 **임상심리학 관련 데이터 정리 & 분석**  
+  IRAP, CES-D, VLQ 등의 척도 데이터를 엑셀/통계 프로그램으로 정리하고 분석하고 있어요.
 
 ---
 
-## 📫 Contact
+## 🔗 Links
 
-- Email: cloudmailboxx@gmail.com  
-- Blog/Portfolio: (네이버 블로그나 랠릿, 노션 주소 등 나중에 추가)
+- 🎓 **Inflearn** : [@cloudmailboxx](https://www.inflearn.com/users/@cloudmailboxx)
+- 💼 **Resume / Portfolio** : (Rallit / Notion 링크 생기면 나중에 추가 예정)
+- 📧 **Contact** : youremail@example.com
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=transparent" height="150" />
+
+</div>
+
+---
+
+## 🌈 한 줄 다짐
+
+> 오늘도 한 걸음씩,  
+> 내가 좋아하는 것들(코딩 · 디자인 · 공부)을 조금씩 더 잘하게 만들기 🌱
+
 
 
 <!--
