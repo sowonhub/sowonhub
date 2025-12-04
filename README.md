@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2200&pause=800&color=0D9488&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sowon+Kim+%F0%9F%91%8B;Frontend+Developer+(React+%26+TS)+%F0%9F%9A%80;Yes%2C+I+can+center+a+%3Cdiv%3E+%F0%9F%98%8E"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2200&pause=800&color=475569&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sowon+Kim+%F0%9F%91%8B;Frontend+Developer+(React+%26+TS)+%F0%9F%9A%80;Yes%2C+I+can+center+a+%3Cdiv%3E+%F0%9F%98%8E"
       alt="Sowon Kim - Frontend Developer" 
     />
   </a>
